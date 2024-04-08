@@ -4,37 +4,37 @@
         android:title="My device" />
     <header
         android:fragment="me.phh.treble.app.OnePlusSettingsFragment"
-        android:title="OnePlus features" />
+        android:title="Oplus features" />
     <header
         android:fragment="me.phh.treble.app.NubiaSettingsFragment"
         android:title="Nubia features" />
     <header
         android:fragment="me.phh.treble.app.VsmartSettingsFragment"
-        android:title="Vsmart features" />
+        android:title="Psmart features" />
     <header
         android:fragment="me.phh.treble.app.QualcommSettingsFragment"
-        android:title="Qualcomm features" />
+        android:title="Qcum features" />
     <header
         android:fragment="me.phh.treble.app.HuaweiSettingsFragment"
-        android:title="Huawei features" />
+        android:title="huhwei features" />
     <header
         android:fragment="me.phh.treble.app.SamsungSettingsFragment"
-        android:title="Samsung features" />
+        android:title="Smasnug features" />
     <header
         android:fragment="me.phh.treble.app.TranssionSettingsFragment"
         android:title="Transsion features" />
     <header
         android:fragment="me.phh.treble.app.LenovoSettingsFragment"
-        android:title="Lenovo features" />
+        android:title="lipono features" />
     <header
         android:fragment="me.phh.treble.app.XiaomiSettingsFragment"
-        android:title="Xiaomi features" />
+        android:title="Ximifeatures" />
     <header
         android:fragment="me.phh.treble.app.OppoSettingsFragment"
-        android:title="Oppo features" />
+        android:title="Realmek features" />
     <header
         android:fragment="me.phh.treble.app.AsusSettingsFragment"
-        android:title="Asus features" />
+        android:title="Usus features" />
     <header
         android:fragment="me.phh.treble.app.DozeSettingsFragment"
         android:title="Doze features" />
